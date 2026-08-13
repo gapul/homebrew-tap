@@ -1,6 +1,6 @@
 cask "keebmouse" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "f995a35dd3df75765689afd16d54e54352a4bb0b430efaef144afa8079031c0e"
 
   url "https://github.com/gapul/homebrew-tap/releases/download/v#{version}/keebmouse-#{version}-macos-arm64.zip"
   name "keebmouse"
